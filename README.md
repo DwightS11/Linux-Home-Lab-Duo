@@ -1,4 +1,4 @@
-# Linux-Home-Lab-Duo
+# NH-SS-Home-Lab
 Documenting my dual-machine dual-OS(Linux+Windows11) home lab setup!
 
 ## Machines
