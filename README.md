@@ -18,7 +18,7 @@ Documenting my dual-machine dual-OS(Linux+Windows11) home lab setup!
 ## Progress
 - [x] Create bootable Ubuntu 24.04 USB
 - [x] Install Ubuntu on Nighthawk
-- [ ] Upgrade Silver Surfer to Windows 11
+- [x] Upgrade Silver Surfer to Windows 11
 - [ ] Post-install configuration on both machines
 - [ ] Establish network connection between machines
 - [ ] Install cybersecurity tools
