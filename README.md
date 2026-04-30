@@ -8,8 +8,8 @@ Documenting my dual-machine home lab setup (Linux + Windows 11) for cybersecurit
 
 | Nickname | Model | CPU | OS | Role |
 |----------|-------|-----|----|------|
-| Nighthawk (NH) | Lenovo IdeaPad Flex 5 14ITL05 | Intel i5-1135G7 / Iris Xe | Ubuntu 24.04 LTS | Linux lab machine |
-| Silver Surfer (SS) | HP Envy m6-aq103dx | AMD A10-9620P / Radeon R6 | Windows 11 | Windows lab machine |
+| Nighthawk (NH) | Lenovo IdeaPad Flex 5 14ITL05 | Intel i3-1115G4 / Iris Xe | Ubuntu 24.04 LTS | Linux lab machine |
+| Silver Surfer (SS) | HP Envy m6-aq103dx | i5-1135G7 | Windows 11 | Windows lab machine |
 
 ---
 
